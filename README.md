@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Archala</h1>
-<h3 align="center">A passionate frontend developer from SriLanka</h3>
+<h3 align="center">A passionate Software Engineering undergraduate</h3>
 
 - 🔭 I’m currently working on **Restaurant Management System**
 
 - 📫 How to reach me **archalanathali14@gmail.com**
 
-- ⚡ Fun fact **ppl call me Nutz**
+- ⚡ Fun fact **People call me Nutz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
